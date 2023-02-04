@@ -1,0 +1,2 @@
+# FruitPictureInformationManagementSystem
+水果图片信息管理系统-毕业设计
